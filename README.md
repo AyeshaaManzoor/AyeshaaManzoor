@@ -1,4 +1,4 @@
-- 👋 Hi, I am @AyeshaaManzoor
+- 👋 Hi, I am Ayesha Manzoor
 -Welcome to my GitHub profile!
  I'm a bioinformatics enthusiast on a quest to unravel the secrets of life through data.
  Currently focused on advancing my skills in computational biology and data analysis.
